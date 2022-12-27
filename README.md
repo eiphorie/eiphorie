@@ -1,6 +1,10 @@
 
 ![eiphorie](https://github.com/eiphorie/eiphorie/blob/main/eiphorie.png?raw=true)
 
+<p align="center">
+<img src="https://www.codewars.com/users/eiphorie/badges/large">
+</p>
+
 <!--
 **eiphorie/eiphorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

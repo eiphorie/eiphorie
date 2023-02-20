@@ -3,8 +3,11 @@
 
 <p align="center">
 <img src="https://www.codewars.com/users/eiphorie/badges/large">
-</p>
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=eiphorie&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+</p>
 <!--
 **eiphorie/eiphorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

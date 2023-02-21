@@ -1,5 +1,6 @@
-
-![eiphorie](https://github.com/eiphorie/eiphorie/blob/main/1df9b96426b6845fab31764c2c0fb75f.png?raw=true)
+<p align="center">
+  <img src=https://github.com/eiphorie/eiphorie/blob/main/1df9b96426b6845fab31764c2c0fb75f.png>
+</p>
 
 <!--
 **eiphorie/eiphorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
